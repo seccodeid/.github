@@ -49,4 +49,6 @@ People Contributions
 
 13	M.Fierza A.E.E	Presenter Event	Friday, 1 April 2022
 
+14. Satria Ady Pradana	Presenter Event	Saturday, 23 April 2022
+
 - [seccodeid.com/contribute](https://seccodeid.com/contribute)
