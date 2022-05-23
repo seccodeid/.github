@@ -23,6 +23,13 @@ Seccodeid is a free discussion forum platform from Indonesia, which discusses te
 - [Ammar Faizi](https://github.com/ammarfaizi2)
 - [M Julfansha](https://github.com/qytela)
 
+#### Security Auditor  
+
+- [Dia Putera](https://github.com/seccodeid)
+- [Ananda Fikri](https://github.com/clonewriter)
+- [Yudistira Arya Mutamang](https://github.com/lordrukie)
+- [Azka Ainul Ma'arij](https://github.com/lawbyte)
+
 #### Contributions Seccodeid Forum
 
 Seccodeid would like to thank you for your contribution, we appreciate you. If you want to contribute with Seccodeid. You can contact via email or telegram, you can chat via telegram @bayjie
